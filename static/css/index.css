@@ -123,7 +123,7 @@ body {
 
 .results-carousel .item img {
   max-width: 80%; /* Adjust this percentage as needed */
-  max-height: 300px; /* Set your preferred max height */
+  max-height: 700px; /* Set your preferred max height */
   object-fit: contain; /* Scales the image to fit within bounds */
   margin: 0 auto; /* Centers the image within the item */
   display: block;
